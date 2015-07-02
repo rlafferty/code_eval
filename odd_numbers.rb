@@ -1,0 +1,1 @@
+(1..100).select(&:odd?).each { |x| puts x }
